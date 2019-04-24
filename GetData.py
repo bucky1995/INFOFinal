@@ -1,9 +1,8 @@
-import steam
 import json
 import codecs
 import requests
 import csv
-API_key = '1FBA03A990A7FA3108DA0CCCD5E3CB10'
+API_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 GameList = ["359550",#Tom Clancy's Rainbow Six Siege
             "814380",#Sekiro™: Shadows Die Twice
